@@ -5,7 +5,7 @@
 
 `node server.js 8888`
 
-或者
+或
 
 `node server 8888`
 
