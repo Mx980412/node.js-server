@@ -3,11 +3,7 @@
 
 ## 启动应用
 
-`node server.js 8888`
-
-或
-
-`node server 8888`
+如：`node server.js 8888` 或 `node server 8888`
 
 ## 添加路由
 
