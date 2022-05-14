@@ -14,5 +14,4 @@
 
 ## 后台启动应用
 
-* `touch log`
-* `node server.js 端口号 >log log 2>&1 &`
+* touch log`node server.js 端口号 >log log 2>&1 &`
